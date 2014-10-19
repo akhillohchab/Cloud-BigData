@@ -85,7 +85,7 @@ public class AwsSample {
     public static void main(String[] args) throws Exception {
 
 
-    	 BasicAWSCredentials credentials = new BasicAWSCredentials("AKIAISLVPAFR7CLS2DBA", "XMJCiyGPxrGfhsVKjs3zXsq33qE5d0GSpWNRSmhE");
+    	 BasicAWSCredentials credentials = new BasicAWSCredentials("", "");
 
          /*********************************************
           * 
